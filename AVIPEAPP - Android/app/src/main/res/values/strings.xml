@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">AVIPE APP</string>
+
+
+    //Sliders
+    <string name="slider_remote_1_title">Remote Access</string>
+    <string name="slider_remote_1_desc">Access your vineyards from anywhere, monitor your sensors and set alerts.</string>
+
+    <string name="slider_remote_2_title">Sustainable Management</string>
+    <string name="slider_remote_2_desc">Our technology aims to control and increase production without damaging the environment, using renewable energies to maintain the system.</string>
+
+    //Sliders Options
+    <string name="slider_option_next">NEXT</string>
+    <string name="slider_option_back">BACK</string>
+    <string name="slider_option_jump">Skip</string>
+
+    //API URL
+    <string name="url">http://94.63.81.0:9000/</string>
+
+    //Login Screen
+    <string name="loginscreen_register"><b>Don´t have an account? <font color="#8C3573">Sign Up Here</font></b></string>
+    <string name="loginscreen_login">LOG IN</string>
+    <string name="loginscreen_save">Save my account.</string>
+    <string name="loginscreen_welcome">Welcome Back!</string>
+    <string name="loginscreen_welcome_desc">Let’s login for explore continues</string>
+
+    <string name="loginscreen_email_hint">Email</string>
+    <string name="loginscreen_password_hint">Password</string>
+    <string name="loginscreen_name_hint">Full Name</string>
+    <string name="lgoinsreen_authenticated">Authenticated.</string>
+
+    //Register Screen
+    <string name="registerscreen_welcome">Welcome</string>
+    <string name="registerscreen_welcome_desc">Let´s create an account</string>
+
+    <string name="registerscreen_gender_female">Female</string>
+    <string name="registerscreen_gender_masculine">Masculine</string>
+
+
+    <string name="registerscreen_register">REGISTER</string>
+    <string name="registerscreen_back"><b>You have an account? <font color="#8C3573">Log In Here</font></b></string>
+
+
+    <string name="registerscreen_msg_invalid_name"> * Please include a full name.</string>
+    <string name="registerscreen_msg_invalid_email"> * Please include a valid email.</string>
+    <string name="registerscreen_msg_invalid_email_inuse"> * This email is in other account.</string>
+    <string name="registerscreen_msg_invalid_password"> * Insert a password with more than 6 characters</string>
+
+    <string name="registerscreen_created"> Account has Created</string>
+
+
+    //Menu
+    <string name="menu_profile">Profile</string>
+    <string name="menu_alerts">Alerts</string>
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_Graphs">Graphs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    //Dashboard
+    <string name="dashboard_place_add">Name of Place:</string>
+    <string name="dashboard_place_ok">Next</string>
+    <string name="dashboard_place_cancel">Cancel</string>
+
+    <string name="dashboard_graph_title">Most Common Diseases</string>
+    <string name="dashboard_welcome">Welcome, </string>
+
+    <string name="dashboard_places">Places</string>
+    <string name="dashboard_options_Global">Global</string>
+    <string name="dashboard_sensors">Sensors</string>
+
+
+    <string name="dashboard_temperature">Temperature</string>
+    <string name="dashboard_humidity">Humidity</string>
+    <string name="dashboard_soil">Soil Moisture</string>
+    <string name="dashboard_wind_speed">Wind Speed</string>
+    <string name="dashboard_solar">Solar Radiation</string>
+
+    //Profile
+    <string name="profile_title">User details</string>
+    <string name="profile_update">Update User</string>
+
+
+    //Permissions
+    <string name="permission_rationale_location">Estas permissões são necessárias para que a aplicação funcione correctamente.</string>
+    <string name="location_permission_denied">Estas permissões são necessárias para que a aplicação funcione correctamente. Por favor tente de novo e dê as permissões necessárias à aplicação. Se as permissões foram negadas de forma definitiva poderá alterar essa decisão manualmente nas definições do seu dispositivo.</string>
+    <string name="permission_required_toast">Location permission is required for thisdemo.</string>
+
+    //Qr Code
+    <string name="QrCode_success">Place has added</string>
+
+    //add preset
+    <string name="preset_variation">Variation</string>
+    <string name="preset_title">Warning Presets</string>
+    <string name="preset_subtitle">Adding alert presets allows you to better control your crop.</string>
+    <string name="preset_save">Save Preset</string>
+    <string name="preset_added">Preset has added!</string>
+    <string name="preset_remove_confirm">Really want to remove the preset?</string>
+
+</resources>

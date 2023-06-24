@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/dashboard"
+        android:title="@string/menu_dashboard"
+        android:icon="@drawable/ic_baseline_dashboard_24"
+        />
+
+    <item android:id="@+id/miSearch"
+        android:title="@string/menu_Graphs"
+        android:icon="@drawable/ic_baseline_bar_chart_24" />
+
+    <item android:id="@+id/placeholder"
+        android:title="" />
+
+    <item android:id="@+id/alerts"
+        android:title="@string/menu_alerts"
+        android:icon="@drawable/ic_baseline_notifications_menu_24" />
+
+    <item android:id="@+id/profile"
+        android:title="@string/menu_profile"
+        android:icon="@drawable/ic_baseline_person_menu_24" />
+
+</menu>
